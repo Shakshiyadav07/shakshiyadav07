@@ -28,9 +28,7 @@ I'm just trying to learn, build, and become a little better than yesterday. 🌷
 <a href="https://www.linkedin.com/in/sakshi-yadav-14b7a3345/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://leetcode.com/u/sakshiii07_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
