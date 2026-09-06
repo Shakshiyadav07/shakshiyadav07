@@ -21,17 +21,18 @@ Thank you for visiting my page! 💗
 P.S.: If you liked something here, a ⭐ or a follow would genuinely make my day.  
 I'm just trying to learn, build, and become a little better than yesterday. 🌷
 
-
 ## 🌸 Let's Connect
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sakshi-yadav-14b7a345">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/sakshi-yadav-14b7a3345/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/sakshii07_/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+&nbsp;
+
+<a href="https://leetcode.com/u/sakshiii07_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </p>
