@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Heyy!
 
 I'm a Computer Science student 💻 and someone who believes that small
 steps can eventually build something meaningful. 🌸
