@@ -24,10 +24,6 @@ Thank you for visiting my page! 💗
 P.S.: If you liked something here, a ⭐ or a follow would genuinely make
 my day. I'm just trying to learn, build, and become a little better
 than yesterday. 🌷
-
 <br>
-
-
 ---
-
 ✨ *Still learning. Still building. Still becoming better every day.* 🚀💗
